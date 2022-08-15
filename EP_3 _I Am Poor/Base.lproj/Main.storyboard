@@ -26,6 +26,10 @@
                                 <rect key="frame" x="57" y="231" width="300" height="300"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="coal" translatesAutoresizingMaskIntoConstraints="NO" id="rYy-hW-cfp">
+                                <rect key="frame" x="87" y="657" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.86274509803921573" green="0.92941176470588238" blue="0.75686274509803919" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -38,5 +42,6 @@
     </scenes>
     <resources>
         <image name="13" width="778" height="778"/>
+        <image name="coal" width="151" height="128"/>
     </resources>
 </document>
